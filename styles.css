@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
 html {
     height: 100%;
 }
@@ -35,24 +36,19 @@ img {
 #container {
     margin: 0 0;
     margin-top: 5%;
-    margin-left: 37%;
+    margin-left: 40%;
     padding: 0 0;
-    width: 30%;
-    font-size: 25px;
-    display: flex;
-    justify-content: center;
+    width: 25%;
+    font-size: 35px;
 }
 
 .form-outline {
-    border: 3px white solid;
+    border: 1px white solid;
     padding: 0;
-}
-
-button {
-    width: 25%;
 }
 
 #search-input {
     background-color: transparent;
-    font-size: 30px;
+    font-size: 25px;
+    font-weight: bold;
 }
